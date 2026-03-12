@@ -5,7 +5,7 @@ const int LIMIAR_ESCURO = 2250;
 
 void setup() {
   // put your setup code here, to run once:
-  Serial.begin(9600);
+  Serial.begin(115200);
   
   pinMode(PINO_LED_ESCURO, OUTPUT);
 }
