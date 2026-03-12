@@ -1,4 +1,12 @@
-# 🌙 Sensor de Luminosidade com LDR e LED (Arduino / ESP32)
+# 🌙 Preview Sensor de Luminosidade com LDR e LED (Arduino / ESP32)
+
+
+
+https://github.com/user-attachments/assets/a7713f59-5d84-4a7d-9c0f-a49653001287
+
+
+
+
 # 📌 Descrição
 
 Este projeto utiliza um sensor de luminosidade (LDR) para detectar a intensidade de luz no ambiente.
